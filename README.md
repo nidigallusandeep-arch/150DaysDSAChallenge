@@ -1,23 +1,44 @@
 # 🚀 150 Days DSA Challenge
 
-Welcome to my 150 Days DSA Challenge.
-This repository contains my DSA learning journey.
-I am practicing Data Structures and Algorithms using Python.
-My goal is to improve problem-solving skills.
-I am solving coding problems regularly.
-This challenge helps me prepare for technical interviews.
-I am starting with basic DSA concepts.
-Arrays are one of the first topics I am practicing.
-I am also learning Matrix problems.
-Matrix topics include traversal and searching.
-I am practicing row and column operations.
-I am learning diagonal operations.
-I am practicing matrix transpose.
-I am learning matrix rotation.
-I am also practicing Spiral Matrix.
-All solutions are implemented using Python.
-I use Jupyter Notebook and VS Code for practice.
-I use Git and GitHub to maintain my work.
-My goal is to complete the challenge consistently.
+Welcome to my **150 Days DSA Challenge**!
 
-# Keep Learning | 💪 Keep Coding
+This repository contains my daily practice and learning journey in
+**Data Structures and Algorithms using Python**.
+
+My goal is to improve my **problem-solving skills, logical thinking,
+coding skills, and interview preparation** by solving DSA problems
+consistently for 150 days.
+
+---
+
+## 🎯 Challenge Goals
+
+- 📚 Learn Data Structures and Algorithms
+- 🧠 Improve problem-solving skills
+- 🐍 Strengthen Python programming
+- 💻 Solve coding problems regularly
+- 🎯 Prepare for technical interviews
+- 🔥 Maintain consistency for 150 days
+- 🚀 Improve coding speed and logic
+
+---
+
+## 🛠️ Technologies Used
+
+- 🐍 Python
+- 💻 VS Code
+- 🐙 Git & GitHub
+----
+
+## 📅 150 Days Progress
+
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 001 | Python / DSA Basics | ✅ |
+| Day 002 | Arrays | ✅ |
+| Day 003 | Strings | ✅ |
+| Day 004 | Searching | ✅ |
+| Day 005 | Sorting | ✅ |
+| Day 006 | Problem Solving | ✅ |
+| ... | ... | 🚀 |
+| Day 150 | Final Challenge | 🔥 |
